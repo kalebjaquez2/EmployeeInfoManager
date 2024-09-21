@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * Proj9.java
+ * 
  * Kaleb Jaquez / Thursday / 2:30 - 4:20
  * 
  * This program allows the user to input information about employees and stores it in an ArrayList. 
