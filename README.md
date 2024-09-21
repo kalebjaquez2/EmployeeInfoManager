@@ -15,7 +15,7 @@ Employee Management System is a command-line Java application that allows users 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/EmployeeManagementSystem.git
+    git clone https://github.com/kalebjaquez2/EmployeeInfoManager.git
     ```
 
 2. Navigate to the project directory:
